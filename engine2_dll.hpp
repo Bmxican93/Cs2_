@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-10-02 14:00:56.233445800 UTC
+// 2025-10-17 10:18:15.575570200 UTC
 
 #pragma once
 
@@ -45,7 +45,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_nTotalTicksThisFrame = 0x38; // int32
                 constexpr std::ptrdiff_t m_nTotalTicks = 0x3C; // int32
             }
-            // Parent: None
+            // Parent: 
             // Field count: 1
             namespace CEntityIOOutput {
                 constexpr std::ptrdiff_t m_Value = 0x18; // CVariantBase<CVariantDefaultAllocator>

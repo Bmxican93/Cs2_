@@ -18427,6 +18427,11 @@
       }
     },
     "enums": {
+      "0_R_5_": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
+      },
       "AmmoFlags_t": {
         "alignment": 4,
         "members": {
@@ -19511,6 +19516,13 @@
           "ONFRAME_UNKNOWN": 0
         },
         "type": "uint8"
+      },
+      "P_R_5_": {
+        "alignment": 0,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
       },
       "PerformanceMode_t": {
         "alignment": 4,

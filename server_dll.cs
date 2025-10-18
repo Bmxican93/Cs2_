@@ -1,10 +1,10 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-10-16 05:43:35.292643700 UTC
+// 2025-10-18 15:19:21.410344400 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: server.dll
     // Class count: 717
-    // Enum count: 150
+    // Enum count: 153
     public static class ServerDll {
         // Alignment: 4
         // Member count: 3
